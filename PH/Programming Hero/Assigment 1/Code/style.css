@@ -1,0 +1,276 @@
+
+body{
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    
+    width: 1922px;
+}
+
+.header-first{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    position: relative;
+}
+
+
+.headings{
+    
+    padding: 147px 972px 147px 240px
+    
+}
+
+.head-h1{   
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+.head-h3{
+    font-size: 18px;
+    margin: 32px 0px;
+    line-height: 40px;
+    font-family: Lato;
+}
+
+.head-flower{
+    width: 635px;
+height: 800px;
+    position: absolute;bottom: 0;right: 0;
+    padding-right: 240px;
+    
+}
+
+.button{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+   font-size: 20px;
+    font-style: normal;
+}
+
+.second-one{
+    background-color: white;
+}
+.second-head{
+            text-align: center;
+            padding: 180px 663px 48px;
+}
+.second-h1{
+    font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+}
+
+.second-h3{
+    font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px;
+}
+
+.bonus{
+    display: flex;
+    padding: 20px 200px 20px 240px;
+}
+.req-1,.req-2,.req-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-right: 24px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.req-2{    
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.req-3{  
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+.second-img{   
+    position: absolute;bottom:0;    
+}
+
+.second-img2{  
+
+    margin-bottom: 51px;
+}
+
+.second2-h3{
+        position: absolute;bottom: -90px;
+        font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+
+.third-one{
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 10%;
+}
+
+span{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+}
+
+.third-one{
+    display: flex;
+    position: relative;
+}
+
+.third-head{
+        padding: 230px 933px 230px 395px ;
+        text-align: center;
+        
+        
+}
+.third-h1{
+    font-size: 40px;
+font-style: normal;
+font-weight: 800;
+}
+
+.third-h3{
+    font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px;
+}
+
+.third-img{
+    
+width: 318px;
+height: 420px;
+position: absolute;
+
+padding: 100px 429px 100px 1175px;
+}
+
+.four-one{
+    position: relative;
+        
+        text-align: center;
+        padding-bottom: 100px;
+}
+
+.four-head{
+    padding: 100px 663px 20px 663px;
+}
+.four-h1{
+    font-size: 40px;
+font-style: normal;
+font-weight: 800;
+}
+
+.four-h3{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.four-img{
+    padding-right: 24px;
+}
+
+.fifth-one{
+    
+    align-items: center;
+    text-align: center;
+    padding-bottom: 128px;
+    padding-right: 25px;
+}
+.all{
+    position: relative;
+}
+.fifth-head{ 
+    position: absolute;
+    top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+.fifth-img{
+    width: 1440px;
+    height: 449px;
+}
+
+.fifth-h1{
+    font-size: 40px;
+font-style: normal;
+
+}
+
+.fifth-h3{
+    font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.rectan{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+margin-right: 10px;
+}
+.search-bar{
+    position: absolute;
+    display: flex;
+    top: 67%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+footer{
+    background-color: #111010;
+    text-align: center;
+}
+
+.last-one{
+    padding: 128px 648px;
+}
+
+.footer-h1{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.footer-h3{
+    font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+color: rgba(255, 255, 255, 0.90);
+}
+
+.footer-h32{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
